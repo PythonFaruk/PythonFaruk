@@ -34,23 +34,4 @@ Coursework: C programming, systems programming (Linux), digital systems (FPGA la
 
 - Documenting my ESP32 project with schematic, photos and code
 - Building the Linux clock app in C++/Qt
-- Solving LeetCode problems in C++-Aufbau, THT-Löten, Transistorschaltungen, Oszilloskop, Multimeter, Labornetzgerät |
-| CAD & 3D-Druck | Autodesk Fusion, FDM-Druck (Bambu Lab A1 / A1 mini) |
-| Systeme | Linux (Debian, Fedora), Windows, PC-Aufbau & Fehlersuche |
-
-## 📌 Projekte
-
-- **ESP32 PWM-Motor:** DC-Motor über Transistor-Leistungsstufe per PWM angesteuert, Tastgrad am Oszilloskop geprüft *(Dokumentation folgt)*
-- **Linux-Uhr-App:** Stoppuhr, Timer, Pop-out-Fenster in C++/Qt 6 *(in Arbeit)*
-- **LeetCode:** Algorithmen und Datenstrukturen in C++ *(laufend)*
-
-## 🎓 Ausbildung
-
-**B.Eng. Technische Informatik (Embedded Systems)**, BHT Berlin, seit 10/2024
-Praxis in: C-Programmierung, Systemprogrammierung (Linux), Digitale Systeme (FPGA-Labor), Signalverarbeitung & Messtechnik
-
-## 🌱 Aktuell
-
-- Dokumentiere mein ESP32-Projekt mit Schaltplan, Fotos und Code
-- Baue die Linux-Uhr-App in C++/Qt
-- Löse LeetCode-Aufgaben in C++
+- Solving LeetCode problems in C++-Aufbau, THT-Löten, Transistorschaltungen, Oszilloskop, Multimeter, Labornetzgerät
