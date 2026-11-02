@@ -23,7 +23,7 @@ I like building things where hardware and software meet: microcontrollers, circu
 
 - **ESP32 PWM Motor:** DC motor driven through a transistor power stage via PWM, duty cycle verified on an oscilloscope *(documentation coming soon)*
 - **Linux Clock App:** stopwatch, timers, pop-out window in C++/Qt 6 *(work in progress)*
-- **LeetCode:** algorithms and data structures in C++ *(ongoing)*
+- **LeetCode:** algorithms and data structures in Python *(ongoing)*
 
 ## 🎓 Education
 
@@ -34,4 +34,4 @@ Coursework: C programming, systems programming (Linux), digital systems (FPGA la
 
 - Documenting my ESP32 project with schematic, photos and code
 - Building the Linux clock app in C++/Qt
-- Solving LeetCode problems in C++-Aufbau, THT-Löten, Transistorschaltungen, Oszilloskop, Multimeter, Labornetzgerät
+- Solving LeetCode problems in Python-Aufbau, THT-Löten, Transistorschaltungen, Oszilloskop, Multimeter, Labornetzgerät
