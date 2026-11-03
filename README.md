@@ -11,34 +11,29 @@ I like building things where hardware and software meet: microcontrollers, circu
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,arduino,raspberrypi)
 
-<h2>📊 Code & Activity</h2>
+## 📊 Code & Activity
 
 <table>
   <tr>
-    <th>LeetCode</th>
-    <th>Projekte</th>
-    <th>GitHub-Aktivität</th>
-  </tr>
-  <tr>
-    <td width="33%">
+    <td width="33%" align="center" valign="top">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PythonFaruk&amp;theme=github_dark&amp;exclude_repos=PythonFaruk"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=PythonFaruk&amp;layout=donut&amp;custom_title=LeetCode%20Languages&amp;exclude_repo=PythonFaruk&amp;card_width=340&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=6&amp;locale=en"
         width="100%"
-        alt="LeetCode languages by commit"
+        alt="LeetCode language distribution"
       />
     </td>
-    <td width="33%">
+    <td width="33%" align="center" valign="top">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PythonFaruk&amp;theme=github_dark&amp;exclude_repos=Leetcode,PythonFaruk"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=PythonFaruk&amp;layout=donut&amp;custom_title=Project%20Languages&amp;exclude_repo=Leetcode,PythonFaruk&amp;card_width=340&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=6&amp;locale=en"
         width="100%"
-        alt="Project languages by commit"
+        alt="Project language distribution"
       />
     </td>
-    <td width="33%">
+    <td width="33%" align="center" valign="top">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PythonFaruk&amp;theme=github_dark"
+        src="https://github-stats-extended.vercel.app/api?username=PythonFaruk&amp;custom_title=Coding%20Activity&amp;hide_rank=true&amp;hide=stars&amp;show_icons=true&amp;line_height=34&amp;card_width=340&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d&amp;border_radius=6&amp;text_bold=false&amp;locale=en"
         width="100%"
-        alt="GitHub statistics"
+        alt="GitHub coding activity"
       />
     </td>
   </tr>
