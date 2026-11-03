@@ -9,7 +9,7 @@ I like building things where hardware and software meet: microcontrollers, circu
 
 
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,arduino,raspberrypi)
+![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,arduino,raspberrypi,blender,debian,latex,notion,linux)
 
 ## 📊 Code & Activity
 
