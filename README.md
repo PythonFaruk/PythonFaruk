@@ -13,8 +13,6 @@ I like building things where hardware and software meet: microcontrollers, circu
 
 <h2>📊 Code & Activity</h2>
 
-## 📊 Code & Activity
-
 <table>
   <tr>
     <th>LeetCode</th>
