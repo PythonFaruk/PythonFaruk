@@ -11,12 +11,12 @@ I like building things where hardware and software meet: microcontrollers, circu
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,arduino,raspberrypi)
 
+<h2>📊 Code & Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PythonFaruk&layout=donut&exclude_repo=PythonFaruk&custom_title=LeetCode&theme=dark&hide_border=true&v=1" height="165" alt="LeetCode Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PythonFaruk&layout=donut&exclude_repo=Leetcode&custom_title=Projects&theme=dark&hide_border=true&v=1" height="165" alt="Project Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=PythonFaruk&show_icons=true&theme=dark&hide_rank=true&hide_border=true&custom_title=Work%20Effort&v=1" height="165" alt="GitHub Work Effort" />
+  <img src="./assets/stats/leetcode.svg" width="32%" alt="LeetCode languages" />
+  <img src="./assets/stats/projects.svg" width="32%" alt="Project languages" />
+  <img src="./assets/stats/activity.svg" width="32%" alt="Coding activity" />
 </p>
 
 - **Languages:** C, C++, Python, Bash, SQL (basics), VHDL (basics)
