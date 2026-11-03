@@ -13,11 +13,38 @@ I like building things where hardware and software meet: microcontrollers, circu
 
 <h2>📊 Code & Activity</h2>
 
-<p align="center">
-  <img src="./assets/stats/leetcode.svg" width="32%" alt="LeetCode languages" />
-  <img src="./assets/stats/projects.svg" width="32%" alt="Project languages" />
-  <img src="./assets/stats/activity.svg" width="32%" alt="Coding activity" />
-</p>
+## 📊 Code & Activity
+
+<table>
+  <tr>
+    <th>LeetCode</th>
+    <th>Projekte</th>
+    <th>GitHub-Aktivität</th>
+  </tr>
+  <tr>
+    <td width="33%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PythonFaruk&amp;theme=github_dark&amp;exclude_repos=PythonFaruk"
+        width="100%"
+        alt="LeetCode languages by commit"
+      />
+    </td>
+    <td width="33%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PythonFaruk&amp;theme=github_dark&amp;exclude_repos=Leetcode,PythonFaruk"
+        width="100%"
+        alt="Project languages by commit"
+      />
+    </td>
+    <td width="33%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PythonFaruk&amp;theme=github_dark"
+        width="100%"
+        alt="GitHub statistics"
+      />
+    </td>
+  </tr>
+</table>
 
 - **Languages:** C, C++, Python, Bash, SQL (basics), VHDL (basics)
 - **Microcontrollers:** ESP32, Arduino Nano/Uno, Raspberry Pi Pico
